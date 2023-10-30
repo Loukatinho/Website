@@ -1,0 +1,21 @@
+.banner {
+  background-image: url(../../images/kenya.JPG);
+  padding: 150px 0px;
+  background-size: cover;
+  background-position: center;
+}
+
+.banner h1 {
+  font-size: 50px;
+  color: #86A789;
+  text-align: center;
+}
+
+.banner h2 {
+  font-size: 50px;
+  font-weight: lighter;
+  opacity: 1.0;
+  margin-bottom: 43px;
+  color: #B0926A;
+  text-align: center;
+}
